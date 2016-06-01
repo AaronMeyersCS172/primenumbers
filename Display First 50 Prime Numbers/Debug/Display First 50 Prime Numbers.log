@@ -1,0 +1,4 @@
+﻿  Display First 50 Prime Numbers.cpp
+c:\users\aaron c meyers\desktop\comp sci\homework 9\display first 50 prime numbers\display first 50 prime numbers\display first 50 prime numbers.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\Aaron C Meyers\Desktop\Comp Sci\Homework 9\Display First 50 Prime Numbers\Debug\Display First 50 Prime Numbers.exe not found or not built by the last incremental link; performing full link
+  Display First 50 Prime Numbers.vcxproj -> C:\Users\Aaron C Meyers\Desktop\Comp Sci\Homework 9\Display First 50 Prime Numbers\Debug\Display First 50 Prime Numbers.exe
